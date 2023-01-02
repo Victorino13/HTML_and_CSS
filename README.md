@@ -2,7 +2,7 @@
  This is a display of sample websites that I made using HTML and CSS
 
 # Projects
- •Movie theatre site
+ •Movie theatre site<br>
  •Space station site
 
 # Movie Theatre Site
@@ -10,3 +10,6 @@
  
 # Space Station site
  This page is an example of home page for a Space travel company. It is styled using CSS and contains a navbar, image containers, and a form.
+
+# Portfolio Site
+ This personal page is an on going project for learning and improvement in future from tech academy courses. 
