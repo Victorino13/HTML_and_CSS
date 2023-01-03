@@ -4,7 +4,7 @@
 # Projects
  <a href="https://github.com/Victorino13/HTML_and_CSS/blob/main/academy_cinemas.html">•Movie theatre site<br>
  <a href="https://github.com/Victorino13/HTML_and_CSS/blob/main/spacestation.html">•Space station site<br>
- <a href="https://github.com/Victorino13/HTML_and_CSS/blob/main/portfolio">•Portfolio site
+ <a href="[https://github.com/Victorino13/HTML_and_CSS/blob/main/portfolio](https://victorino13.github.io/)">•Portfolio site
 
 # Movie Theatre Site
  This page is an example home page for a Movie theatre that is styled using Boostrap4. It contains many Bootstrap components including but not limited to navbar, jumbotron, form, cards and dropdowns.
