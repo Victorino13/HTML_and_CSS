@@ -2,7 +2,7 @@
  This is a display of sample websites that I made using HTML and CSS
 
 # Projects
- •Movie theatre site<br>
+ <a href="https://github.com/Victorino13/HTML_and_CSS/blob/main/academy_cinemas.html">•Movie theatre site<br>
  •Space station site
 
 # Movie Theatre Site
